@@ -56,16 +56,16 @@ Again, you should consult your players to make sure everyone is in general agree
 Each player should come up with a character, and summarize that character by writing down the character's name and title or a one-line description. This description should be enough to give anyone a quick idea of what kind of character this is.
 
 * Good names for a high fantasy game:
-** Dirk the Dagger, Master Of Thievery
-** Alina Spellsong, Sorceress Supreme
-** The Undying Faceless One, Taker of Souls
+  * Dirk the Dagger, Master Of Thievery
+  * Alina Spellsong, Sorceress Supreme
+  * The Undying Faceless One, Taker of Souls
 
 * Worse names for a high fantasy game, which you should run by your GM first:
-** Dave (too short)
-** Makheesi, Mother of Balrogs, Slayer of the Tainted, Breaker of Forth Walls, and Master of the Seventeen Arts (too long)
-** Captain I Always Win Every Fight (Your name doesn't allow you to dictate how the game works)
-** The Girl Who Wields Excalibur (it's fine to name your favorite weapon, but you don't get any bonuses on your rolls from this)
-** Charlie, Who is From Space (isn't this a fantasy game? ask everyone first, before you introduce things)
+  * Dave (too short)
+  * Makheesi, Mother of Balrogs, Slayer of the Tainted, Breaker of Forth Walls, and Master of the Seventeen Arts (too long)
+  * Captain I Always Win Every Fight (Your name doesn't allow you to dictate how the game works)
+  * The Girl Who Wields Excalibur (it's fine to name your favorite weapon, but you don't get any bonuses on your rolls)
+  * Charlie, Who is From Space (isn't this a fantasy game? ask everyone first, before you introduce things)
 
 ### do something
 Each charater starts with one first-level skill:
@@ -145,7 +145,7 @@ You can never advance a higher-level skill if you break any link in its chain, s
 #### skill tree 2: triangle
 You can only take up to a maximum of 6 skills at level 2, 5 skills at level 3, and so on. If you want to add more skills to a level, you have to overwrite an existing skill. You may change this number up or down to your taste. You can never advance a higher-level skill if you break any link in its chain, so overwriting Dazzling Color Spray 3 means that you can never advance Dazzling Prismatic Color Spray 4 to a level 5 skill.
 
-## terminology
+## appendix 2: terminology
 * d6, or 1d6, 2d6, etc.
   * Six-sided dice, or cubes numbered 1-6 on their sides. "d6" and "1d6" mean one six-sided die. "2d6" and so on means that number of six-sided dice. If you see a term such as "2d6+1", that means take the result of rolling 2d6 and add 1 to the total.
 * GM
@@ -154,3 +154,16 @@ You can only take up to a maximum of 6 skills at level 2, 5 skills at level 3, a
   * Non-Player Character. Some fictional entity in the game world, such as a monster or townsperson. Generally portrayed by the GM.
 * PC
   * Player-Character, or the imaginary character that one of your players is portraying.
+
+## appendix 3: quick sheet
+* GM leads tasks prior to play
+  * Announce the setting, and discuss any "ins" and "outs" the players want so you're all on the same page.
+  * Announce the general goal the characters are aiming for, so the players know roughly what they're aiming at.
+  * Players create characters. Characters generaly, have a name, title, and the skill "Do Something 1"
+* Players, during play:
+  * Say what you do and roll a number of d6s.
+  * If the sum of your roll is higher than the opposing roll (either another player or the DM), the thing you wanted to happen, happens.
+  * The number of the d6s you roll is determined by the level of skill you have.
+  * If you roll all sixes on your roll, you can get new skill one level higher than the one you used for the action.
+  * Note that these skills may also represent items, techniques, etc. that your character uses to gain an advantage.
+  * The skill must be a subset of what happened to you in the action (Say, Athletics 2 if you were climbing a wall, or Teeth of Biting 2 if you were eating a cake).
